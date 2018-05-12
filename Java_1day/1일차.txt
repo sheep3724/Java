@@ -28,3 +28,4 @@ Scanner => sc
 int x = sc.nextInt() : 정수입력
 double y = sc.nextDouble() : 실수입력
 String s = sc.next() : Srtring(문자열)
+boolean b = sc.nextBoolean() : (논리)
