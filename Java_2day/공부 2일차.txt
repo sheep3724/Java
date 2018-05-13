@@ -1,0 +1,35 @@
+제어문의 종류 - 조건문, 반복문
+조건문의 종류 - if, if, if~else, if~else, switch~case~default
+반복문의 종류 - while, for, do~while
+if~else의 기본 구조
+if(조건식){
+	//조건식이 true일 떄, 실행
+}else{
+	//조건식이 false일 때, 실행
+}
+switch문의 기본 구조
+switch(변수){
+case 값1: 처리; break;
+case 값2: 처리; break;
+default: 처리; //값1, 값2가 아닌 경우
+}
+while문의 기본 구조
+//초기값
+while(조건식){
+	//조건식이 true일 때, 실행
+	//증가식
+}
+for문의 기본 구조
+for(초기값;조건식;증가식;)
+{
+	//조건식이 true일 때, 실행
+}
+switch문에서 사용할 수 있는 변수 3가지
+String("사용하여 값표시), char('사용하여 값표시), 정수
+
+
+ㅡㅡㅡㅡㅡㅡㅡㅡ
+자바의 그래픽 기술
+AWT : 20개
+SWING 100개
+FX : 200개 +XML
